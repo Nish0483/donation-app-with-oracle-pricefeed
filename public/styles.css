@@ -1,0 +1,22 @@
+
+ul {
+	margin-top: 10px;
+	padding: 15px 0px;
+	background-color: #dfd3d313;}
+
+	ul a{
+		display: inline;
+		margin-right: 10px;
+	}
+	ul a i:hover{
+		transform: scale(1.5);
+		color: #2ab1ce;
+		}
+#name{
+color: aliceblue;
+     }
+#cont{
+    margin-top: 100px;
+	padding-bottom:50px ;
+}
+#h4{color: rgba(240, 255, 255, 0.534);}
